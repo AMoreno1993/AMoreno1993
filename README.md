@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there+!;Welcome+to+my+chanel)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on my IT skills as a front developer
 - 🌱 I’m currently learning Angular and Typescript
